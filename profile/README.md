@@ -1,6 +1,6 @@
 ## 👋 Hey!
 
-Reworkly is a cloud-based HR platform that helps to manage your employees lifecycle (hiring 🚀 to firing 🔥).
+Reworkly is a cloud-based HR platform that helps to manage your employees lifecycle.
 
 Our products:
 - 💼 Reworkly HR
