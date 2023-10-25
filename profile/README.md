@@ -3,7 +3,8 @@
 Reworkly is a cloud-based HR platform that helps to manage your people.
 
 Our products:
-- Reworkly Recruit
+- Reworkly Recruiting
+- Reworkly Onboarding
 - Reworkly Human Resources
 - Reworkly Absence
 - Reworkly Scheduling
